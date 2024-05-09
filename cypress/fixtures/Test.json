@@ -1,0 +1,27 @@
+{
+    "login_url": "https://dev.profteam.su/login",
+    "login_Student": "testerStudent",
+    "login_Employer": "testerEmployer",
+    "none_existent_login": "test252test",
+    "login": "testerStudent",
+    "email": "student@gmail.com",
+    "password": "Password1",
+    "none_existent_password": "Password",
+
+    "search": "Проведение",
+    "job_name": "Главный дегустатор",
+    "job_name_fail": "905=?",
+    "requirements": "всегда хотеть кушать, быть не привередливым",
+    "responsibilities": "кушать, но не всегда вкусно",
+    "start_date": "2024-04-01",
+    "end_date": "2025-04-01",
+
+    "positions":"Прораб",
+    "requirements_vacancy":"уметь держать кисточку в руках",
+    "responsibilities_vacancy": "красить стены и потолки",
+    "positions_fail":"5*5=?",
+    "responsibilities_vacancy_fail": "bb",
+    "requirements_vacancy_fail":"d#"
+
+
+}

@@ -1,0 +1,13 @@
+{
+    "register_url": "https://dev.profteam.su/registration",
+    "login_register": "testerWW",
+    "email_register": "tester234@gmail.com",
+    "password_register": "Passasd123",
+    "password_again_register": "Passasd123",
+    "surname_register": "Горбин",
+    "name_register": "Лев",
+    "patronymic_register": "Николаевич",
+    "login_fail_register": "tester3",
+    "email_fail_register": "tester009@gmail.com",
+    "surname_fail_register": "ГорлООбИН3"
+}
